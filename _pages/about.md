@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About Me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,26 +12,4 @@ redirect_from:
 A data-driven personal website
 ======
 
-Getting started
-======
-n
-
-Site-wide configuration
-------
-
-
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-
-
-How to edit your site's GitHub repository
-------
-
-
-For more info
-------
 
