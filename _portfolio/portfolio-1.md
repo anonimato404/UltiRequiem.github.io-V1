@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><embed src="/diplomas/diploma-python.pdf" width="800px" height="2100px" />"
+excerpt: "Short description of portfolio item number 1<br/><embed src="/diplomas/diploma-python.pdf" type="application/pdf"  width="800px" height="2100px" />"
 collection: portfolio
 ---
 
