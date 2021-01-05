@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Soy un chico de 14 años que vive en Perú y quiero ser desarrollador de Software para resolver problemas.
 
-
-A data-driven personal website
+¿Que hare en la Pagína?
 ======
+En esta pagina colocare reseñas de los cursos que tome en diferentes plataformas.Las reseñas las encontraras [aqui](https://eliazbobadilla.github.io/year-archive/).
 
 
