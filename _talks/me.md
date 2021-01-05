@@ -1,10 +1,10 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Mi Primer Post"
 collection: talks
 type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
+permalink: /talks/me
+venue: "Peru"
+date: 2020-01-05
 location: "Los Angeles, CA"
 ---
 
