@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Master Tutos 2007"
+locale                   : "es-PE"
+title                    : "Mi blog"
 title_separator          : "-"
 name                     : &name "Eliaz Bobadilla"
-description              : &description "Zero"
+description              : &description "My cool blog"
 url                      : https://eliazbobadilla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &EliazBobadilla
 facebook:
   username               :
   app_id                 :
