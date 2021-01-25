@@ -9,6 +9,6 @@ paperurl: 'https://eliazbobadilla.github.io/files/diploma-introweb.pdf'
 ---
 Tu tambien puedes tomar el curso en [Platzi](https://platzi.com/clases/introweb/)
 
-[Mi Diploma esta aqui.](https://eliazbobadilla.github.io/files/diploma-introweb.pdf)
+[Mi Diploma esta aqui.](https://eliazbobadilla.github.io/files/diplomas/diploma-introweb.pdf)
 
 Tambien puedes ver mi Diploma en [mi perfil de Platzi](https://platzi.com/p/EliazBobadilla/).
