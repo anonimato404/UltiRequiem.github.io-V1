@@ -11,6 +11,6 @@ Soy un chico de 14 años que vive en Perú y quiero ser desarrollador de Softwar
 
 ¿Que hare en la Pagína?
 ======
-En esta pagina colocare reseñas de los cursos que tome en diferentes plataformas.Las reseñas las encontraras [aqui](https://eliazbobadilla.github.io/year-archive/).
+En esta pagina colocare reseñas de los cursos que tome en diferentes plataformas.Las reseñas las encontraras [aqui](https://ultirequiem.github.io/year-archive/).
 
 
